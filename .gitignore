@@ -1,0 +1,21 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore PDF previews or generated images
+*.png
+
+
+
+# Ignore output data files
+*.csv
+
+# Ignore other temporary files
+*.log
+*.tmp
