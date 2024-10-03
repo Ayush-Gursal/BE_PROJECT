@@ -62,7 +62,7 @@ Invoice Extractor is a web-based application that allows users to upload invoice
 
 3. **Project Structure** :
 
-    Ordway_Labs_Project/|
+    BE_Project/|
 
     ├── Uploaded_Invoices/        
     ├── .gitignore                
