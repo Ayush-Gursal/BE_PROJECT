@@ -1,0 +1,58 @@
+[
+    {
+        "id": null,
+        "customer_id": null,
+        "customer_name": "Montel AS",
+        "status": null,
+        "billing_start_date": null,
+        "service_start_date": "5/1/2024",
+        "quote_placed_at": null,
+        "quote_expiry_at": "4/30/2024",
+        "accepted_at": "4/24/2024",
+        "contract_effective_date": null,
+        "cancellation_date": null,
+        "auto_renew": true,
+        "currency": "$",
+        "total_charges": "28,260.00",
+        "separate_invoice": null,
+        "notes": null,
+        "require_payment_method": true,
+        "version": null,
+        "version_type": null,
+        "contract_term": "one (1) year periods",
+        "sender_name": "Alissa McConnell",
+        "sender_email": null,
+        "recipient_name": "Phil Hewitt",
+        "recipient_email": "phil.hewitt@montelgroup.com",
+        "quote_pdf_url": null,
+        "plans": [
+            {
+                "name": "ENTERPRISE LICENSE",
+                "description": "\u25cf$350 per month for each add\u2019l 10,000\nMAU\n\u25cf24x7x365 tech support for critical issues\n\u25cf10 hours / month for non-critical support\nduring normal business hours\n\u25cfPrivate Slack channel",
+                "price": "3,300.00",
+                "quantity": "10,000"
+            },
+            {
+                "name": "HIGH AVAILABILITY CLOUD HOSTING",
+                "description": "\u25cfReplication, load-balancer, full backup\n\u25cfServer Size: Large\n\u25cfLocation of deployment: Frankfurt",
+                "price": "1,105.00",
+                "quantity": "3"
+            },
+            {
+                "name": "BASIC CLOUD HOSTING",
+                "description": "\u25cfNo Backup\n\u25cfServer Size: Large\n\u25cfLocation of deployment: Frankfurt",
+                "price": "350.00",
+                "quantity": "2"
+            }
+        ],
+        "created_date": null,
+        "updated_date": null,
+        "created_by": null,
+        "created_by_name": null,
+        "updated_by": null,
+        "customer_text_signature": null,
+        "company_text_signature": null,
+        "company_sign_at": null,
+        "subscription_number": null
+    }
+]
